@@ -77,5 +77,5 @@ This project demonstrates a complete end-to-end machine learning workflow explor
 ## Author
 **Vishnupriya**
 M.Sc. Data Science
-MSc Data Science Student
+
 
