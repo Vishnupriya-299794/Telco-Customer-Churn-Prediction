@@ -14,17 +14,19 @@ The primary goal of this project is to:
 ##  Dataset Description
 
 The dataset contains customer-level information including:
-a) Demographics (e.g., SeniorCitizen)
-b) Account information (tenure, billing details)
-c) Service usage details
+-  Demographics (e.g., SeniorCitizen)
+-  Account information (tenure, billing details)
+-  Service usage details
 
 ## Target variable:
 **Churn** (Yes / No)
-##  Tools & Technologies Used:- Python
-   Pandas, NumPy – Data manipulation
-   Matplotlib, Seaborn – Data visualization
-   Scikit-learn – Machine learning and evaluation
-   Jupyter Notebook
+
+##  Tools & Technologies Used:
+- Python
+- Pandas, NumPy – Data manipulation
+- Matplotlib, Seaborn – Data visualization
+- Scikit-learn – Machine learning and evaluation
+- Jupyter Notebook
 
 ##  Exploratory Data Analysis (EDA)
 Key insights discovered during EDA:
